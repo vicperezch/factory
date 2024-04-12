@@ -1,4 +1,4 @@
-package src;
+package FactoryMethod;
 
 /**
  * @author Victor Pérez

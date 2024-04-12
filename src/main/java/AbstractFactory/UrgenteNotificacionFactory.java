@@ -1,4 +1,7 @@
-package src;
+package AbstractFactory;
+
+import AbstractFactory.INotificacionFactory;
+import FactoryMethod.Notificacion;
 
 /**
  * @author Victor Pérez
